@@ -5,11 +5,7 @@ public class SumOfTheDigits {
 
       public static void main(String[] args) {
         // TODO code application logic here
-        int num=12
-                
-                
-                
-                ,  rem=0, sum=0, temp;
+        int num=12,rem=0, sum=0, temp;
         temp = num;
         while(num > 0)
                 {
